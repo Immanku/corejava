@@ -1,4 +1,7 @@
 class Odd implements Runnable
+//Run method must be override
+
+
 {
 public void run()
 {  
